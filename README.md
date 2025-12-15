@@ -1,4 +1,4 @@
-#疑似GPS（上空カメラ）を用いた自律走行ローバーシステム
+# 疑似GPS（上空カメラ）を用いた自律走行ローバーシステム
 **Status**: 🏗️ In Development (Phase: Design & Procurement)
 
 ## 📌 プロジェクト概要
